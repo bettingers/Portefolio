@@ -407,6 +407,10 @@ img{
     align-self: center;
 }
 
+.img-size{
+    width: 50px;
+}
+
 .about-description{
     text-align: center;
     margin-bottom: var(--mb-2-5);
