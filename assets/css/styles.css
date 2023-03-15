@@ -464,6 +464,9 @@ img{
 .skills-title{
     font-size: var(--h3-font-size);
 }
+.skills-title1{
+    font-size: var(--h3-font-size);
+}
 
 .skills-subtitle{
     font-size: var(--small-font-size);
