@@ -408,7 +408,7 @@ img{
 }
 
 .img-size{
-    width: 50px;
+    width: 40px;
 }
 
 .about-description{
@@ -1038,6 +1038,10 @@ img{
     }
 
     .skills-title{
+        font-size: var(--normal-font-size);
+    }
+
+    .skills-title1{
         font-size: var(--normal-font-size);
     }
 
