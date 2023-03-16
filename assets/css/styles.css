@@ -136,6 +136,13 @@ img{
     height: auto;
 }
 
+.module-line {
+    background: #666;
+    width: 55px;
+    height: 1px;
+    margin: 30px auto;
+}
+
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section{
     padding: 2rem 0 4rem;
