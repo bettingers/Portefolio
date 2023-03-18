@@ -138,7 +138,7 @@ img{
 
 .module-line {
     background: #666;
-    width: 70px;
+    width: 100px;
     height: 1px;
     margin: 30px auto;
 }
@@ -357,7 +357,7 @@ img{
 /*==================== BUTTONS ====================*/
 .button{
     display: inline-block;
-    background-color: var(--first-color);
+    background-color: #B6C3D7;
     color: #fff;
     padding: 1rem;
     border-radius: .5rem;
