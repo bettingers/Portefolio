@@ -449,6 +449,30 @@ img{
     justify-content: center;
 }
 
+.module-header {
+    margin: 0 0 50px;
+    text-align: center;
+}
+
+.module-title {
+    position: relative;
+    margin-bottom: 50px;
+    font-weight: 300;
+    color: #5b5963;
+}
+
+.module-title span {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: -40px;
+    z-index: 0;
+    opacity: 0.05;
+    font-weight: 700;
+}
+
 /*==================== SKILLS ====================*/
 .skills-container{
     row-gap: 0;
