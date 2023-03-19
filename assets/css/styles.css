@@ -295,11 +295,11 @@ img{
 
 .home-social-icon{
     font-size: 1.25rem;
-    color: var(--first-color);
+    color: #B6C3D7;
 }
 
 .home-social-icon:hover{
-    color: var(--first-color-alt) ;
+    color: #9FB7DC ;
 }
 
 .home-blob{
