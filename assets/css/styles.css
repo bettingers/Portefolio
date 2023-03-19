@@ -181,7 +181,7 @@ img{
     bottom: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: var(--first-color);
+    background-color: #ffffff;
 }
 
 /*==================== NAV ====================*/
@@ -241,7 +241,7 @@ img{
 }
 
 .nav-link:hover{
-    color: #ffffff;
+    color: #9FB7DC;
 }
 
 .nav-icon{
@@ -254,7 +254,7 @@ img{
     bottom: .5rem;
     font-size: 1.5rem;
     cursor: pointer;
-    color: var(--first-color);
+    color: #ffffff;
 }
 
 .nav-close:hover{
@@ -365,7 +365,7 @@ img{
 }
 
 .button:hover{
-    background-color: var(--first-color-alt);
+    background-color: #9FB7DC;
 }
 
 .button-icon{
