@@ -1055,6 +1055,75 @@ video {display:block;width:480px;margin:0 auto 35px auto}
     background-color: var(--text-color-light);
 }
 
+/*==================== PROJECTS ====================*/
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+element.style {
+    height: 872px;
+    transition: height 250ms ease-out 0s;
+}
+.list-items-container {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+element.style {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);
+    opacity: 1;
+    transition: transform 250ms ease-out 0s, opacity 250ms ease-out 0s;
+}
+
+figure {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.list-items-container .list-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.list-items-container .list-item figcaption {
+    background: rgba(250,31,85,1);
+    background: -moz-linear-gradient(45deg, #000000bd 0%, #3f48af 100%);
+    background: -webkit-linear-gradient(45deg, #000000bd 0%, #3f48af 100%);
+    background: -o-linear-gradient(45deg, #000000bd 0%, #3f48af 100%);
+    background: -ms-linear-gradient(45deg, #000000bd 0%, #3f48af 100%);
+    background: linear-gradient(45deg, #000000bd 0%, #3f48af 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa1f55', endColorstr='#fd735a', GradientType=1 );
+    bottom: 8px;
+    left: 8px;
+    opacity: 0;
+    padding: 25px;
+    position: absolute;
+    right: 8px;
+    text-align: center;
+    top: 8px;
+    transform: scale(1.1);
+    transition: all 0.3s ease 0s;
+}
+
+.list-items-container .caption-inner {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    margin-top: -20px;
+}
+
+
+
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
 @media screen and (max-width: 350px) {
