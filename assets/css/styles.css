@@ -964,7 +964,7 @@ img{
 }
 
 .footer-bg{
-    background-color: var(--first-color-second);
+    background-color: #9FB7DC;
     padding: 2rem 0 3rem;
 }
 
@@ -1024,7 +1024,7 @@ img{
 }
 
 .scrollup:hover{
-    background-color: var(--first-color-alt);
+    background-color: #9FB7DC;
 }
 
 .scrollup-icon{
