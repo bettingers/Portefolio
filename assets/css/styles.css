@@ -906,10 +906,7 @@ img{
     bottom: 0;
 }
 
-video{
-    margin-top: 50px;
-    align-content: center;
-}
+video {display:block;width:480px;margin:0 auto 35px auto}
 
 /*==================== CONTACT ME ====================*/
 .contact-container{
