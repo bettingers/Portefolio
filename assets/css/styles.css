@@ -241,7 +241,7 @@ img{
 }
 
 .nav-link:hover{
-    color: var(--first-color);
+    color: #ffffff;
 }
 
 .nav-icon{
