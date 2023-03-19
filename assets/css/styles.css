@@ -653,7 +653,7 @@ img{
     display: inline-block;
     width: 13px;
     height: 13px;
-    background-color: var(--first-color);
+    background-color: #B6C3D7;
     border-radius: 50%;
 }
 
@@ -661,7 +661,7 @@ img{
     display: block;
     width: 1px;
     height: 100%;
-    background-color: var(--first-color);
+    background-color: #9FB7DC;
     transform: translate(6px, -7px);
 }
 
@@ -812,7 +812,7 @@ img{
 
 .swiper-portfolio-icon{
     font-size: 2rem;
-    color: var(--first-color);
+    color: cornflowerblue;
 }
 
 .swiper-button-prev{
@@ -964,7 +964,7 @@ img{
 }
 
 .footer-bg{
-    background-color: #9FB7DC;
+    background-color:#B6C3D7;
     padding: 2rem 0 3rem;
 }
 
