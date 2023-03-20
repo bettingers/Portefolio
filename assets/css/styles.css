@@ -1057,7 +1057,10 @@ video {display:block;width:480px;margin:0 auto 35px auto}
 
 /*==================== PROJECTS ====================*/
 
-
+.imgg{
+    max-width: 100%;
+    height: auto;
+}
 
 
 
